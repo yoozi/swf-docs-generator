@@ -1,0 +1,2 @@
+/data/lampstack/ctlscript.sh  start
+supervisord -c /data/supervisord.conf
