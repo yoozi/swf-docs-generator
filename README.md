@@ -67,7 +67,7 @@
 
 ## LICENSE
 
-The MIT License (MIT)
+The MIT License (MIT)    
 Copyright (c) 2012 Yoozi Inc., [http://www.yoozi.cn](http://www.yoozi.cn).
 
 # PS: 有时间会写整个项目软件的安装过程。
