@@ -79,9 +79,9 @@
 
 # 演示截图
 
- ![截图1](install/screencast-1.png)
+ ![截图1](https://github.com/yoozi/document-converter/blob/master/install/screencast-1.png)
 
- ![截图2](install/screencast-2.png)
+ ![截图2](https://github.com/yoozi/document-converter/blob/master/install/screencast-2.png)
 
 # PS: 有时间会写整个项目软件的安装过程。
 
