@@ -1,8 +1,6 @@
-# 文档自动转换
+# Swf 文档生成和展示解决方案（类百度文库）
 
-[类百度文库 swf 格式在线浏览完整的解决方案](http://blog.yoozi.cn/opensource/swf-docs-generator/)：支持 office/pdf/txt/html 等多格式文档上传。本解决方案全程采用开源免费软件，零成本。
-
-项目只是实现了简单上传和自动转换，若要用在实际项目中，还需考虑更多的因素，在此不一一列举。有问题大家直接 [issue](https://github.com/yoozi/swf-docs-generator/issues/new)、或提交 [pull request](https://github.com/yoozi/swf-docs-generator/pulls) 共同完善，感谢。
+这是一个[类百度文库 swf 格式在线浏览的完整解决方案](http://blog.yoozi.cn/opensource/swf-docs-generator/)：支持 office/pdf/txt/html 等多格式文档上传。本解决方案全程采用开源免费软件，零成本。项目目前实现了简单上传和自动转换，若要用在实际项目中，还需考虑更多的因素，在此不一一列举。有问题大家直接 [issue](https://github.com/yoozi/swf-docs-generator/issues/new)、或提交 [pull request](https://github.com/yoozi/swf-docs-generator/pulls) 共同完善，感谢。
 
 ### 软件演示截图
 
