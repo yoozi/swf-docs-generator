@@ -8,6 +8,10 @@
 
 ![文档展示效果](https://raw.github.com/yoozi/swf-docs-generator/master/install/screencast-2.png)
 
+## 安装文档
+
+详情参见 [安装过程](https://github.com/yoozi/swf-docs-generator/blob/master/install.md)
+
 ## 开发团队
 
 * Project Lead: [chekun](https://github.com/chekun)
@@ -86,5 +90,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-# PS: 有时间会写整个项目软件的安装过程。
+>>>>>>> 3738ba387cc5f87b5f9e500a9891592d9ac12189
