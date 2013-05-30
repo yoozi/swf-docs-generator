@@ -32,7 +32,11 @@ yum -y groupinstall "Desktop" "Desktop Platform" "X Window System" "Fonts"
 
 ```
 yum groupinstall "Java Platform"
-```
+```文以64位最小化安装的CentOS6.2系统作为演示说明基础. 
+* 本文约定所有wget下来的目录都放到/data/downloads目录下.
+* 本文使用LibreOffice3.6作为文档转换到PDF，也可自行替换成OpenOffice.
+* 本文以root用户进行安装，如果你不是root用户，相关地方请注意转换权限.
+* 对于你自己的服务器，有些软件包都是存在了，可自行选择跳过安装.
 
 ## 下载并安装LibreOffice3.6.6
 
