@@ -1,6 +1,6 @@
 # Swf Doc Generator 部署文档
 
-## 不知不觉，这个项目已经发布六个多月了，当初承诺的安装文档一直没有时间写出，好了，解释的话不多说，多谢大家的支持。安装开始！
+> 不知不觉，这个项目已经发布六个多月了，当初承诺的安装文档一直没有时间写出，好了，解释的话不多说，多谢大家的支持。安装开始！
 
 ## 约定
 
@@ -316,7 +316,7 @@ mkdir -p /data/www/public/attachments/
 chown -R nginx:nginx /data/www
 ```
 
-## 修改scripts/pyConverter.py,已支持uno
+## 修改scripts/pyConverter.py,以支持uno
 
 ```
 vi /data/www/scripts/pyConverter.py
